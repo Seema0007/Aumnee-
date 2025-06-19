@@ -67,7 +67,7 @@ function App() {
               </motion.div>
               <div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-transparent">
-                  Jira Sprint Dashboard
+                  Seema's Jira Sprint Dashboard
                 </h1>
                 <p className="text-sm text-gray-500 font-medium">{currentSprint.sprintName}</p>
               </div>
